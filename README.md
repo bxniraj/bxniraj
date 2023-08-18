@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Niraj
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning DSA in Python
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me - iprorix.com
+
