@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bxniraj
-- 👀 I’m interested in AIML
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me bxniraj@gmail.com
